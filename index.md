@@ -4,7 +4,7 @@ I share my experiences, projects and thoughts in this website. Hope you like it 
 
 ---
 
-<center> <h3>I spend my time at</h3> </center>
+## I spend my time at
 
 > [**Migracode**](https://migracode.openculturalcenter.org/): I was lucky enough to find Migracode and being able to merge my programming passion with my will to help others. Helping refugees and people in difficult situations to become (junior) full-stack developers.
 
@@ -17,8 +17,6 @@ I share my experiences, projects and thoughts in this website. Hope you like it 
 - 💪 and [contact me](https://www.linkedin.com/in/eduardbargues/) if you are interested in [one of our positions](https://ohpen.pinpointhq.com/?). We are always looking for great people!
 
 ---
-
-<center> <h3>Experiences, projects and thoughts</h3> </center>
 
 ## `12-06-2022` Group based authentication
 
