@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Group based authentication
+title: Idempotency 102
 parent: Articles
 nav_order: 2
 ---
