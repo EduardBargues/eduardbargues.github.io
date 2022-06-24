@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Latest articles
+title: Articles
 nav_order: 4
 has_children: true
 ---
