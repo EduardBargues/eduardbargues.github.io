@@ -2,7 +2,7 @@
 layout: default
 title: Idempotency 102
 parent: Articles
-nav_order: 2
+nav_order: -1
 ---
 
 ## `06-12-2021` Idempotency 102: serverless enters the scene
