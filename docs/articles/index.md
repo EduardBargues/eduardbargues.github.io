@@ -11,7 +11,7 @@ has_children: true
 [Top 10 git commands I use at work](https://eduardbargues.github.io/docs/articles/top%2010%20git%20commands.html)
 `03-01-2021` `git`
 
-[Take full advantage of your .gitconfig file](https://eduardbargues.medium.com/take-full-advantage-of-your-gitconfig-file-b00bde71c9d0)
+[Take full advantage of your .gitconfig file](https://eduardbargues.github.io/docs/articles/Take%20full%20advantage%20of%20your%20.gitconfig%20file.html)
 `06-01-2021` `git` `gitconfig`
 
 [Don’t test your implementation](https://eduardbargues.medium.com/dont-test-your-implementation-e7bb4518728d)
