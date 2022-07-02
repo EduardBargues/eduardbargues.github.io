@@ -15,7 +15,7 @@ has_children: false
 `06-01-2021` `git` `gitconfig`
 
 [Don’t test your implementation](https://eduardbargues.medium.com/dont-test-your-implementation-e7bb4518728d)
-`12-01-2021` ` test` `component-testing ` `c#` `csharp` `aspnetcore`
+`12-01-2021` `test` `component-testing` `c#` `csharp` `aspnetcore`
 
 [Automate your DevOps flow with conventional commits](https://eduardbargues.medium.com/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
 `22-01-2021` `git` `cicd` `gitflow`
