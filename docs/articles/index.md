@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-[Find the hidden bug with git-bisect](https://eduardbargues.medium.com/find-the-hidden-bug-with-git-bisect-11ffa965fee3)
+[Find the hidden bug with git-bisect](https://eduardbargues.github.io/docs/articles/find%20the%20hidden%20bug%20with%20git%20bisect.html)
 `01-01-2021` `git` `bisect` `bug`
 
 [Top 10 git commands I use at work](https://eduardbargues.github.io/docs/articles/top%2010%20git%20commands.html)
