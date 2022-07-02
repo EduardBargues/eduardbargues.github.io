@@ -2,7 +2,7 @@
 layout: default
 title: Articles
 nav_order: 3
-has_children: true
+has_children: false
 ---
 
 [Find the hidden bug with git-bisect](https://eduardbargues.medium.com/find-the-hidden-bug-with-git-bisect-11ffa965fee3)
