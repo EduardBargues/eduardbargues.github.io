@@ -2,13 +2,13 @@
 layout: default
 title: Articles
 nav_order: 3
-has_children: false
+has_children: true
 ---
 
 [Find the hidden bug with git-bisect](https://eduardbargues.medium.com/find-the-hidden-bug-with-git-bisect-11ffa965fee3)
 `01-01-2021` `git` `bisect` `bug`
 
-[Top 10 git commands I use at work](https://eduardbargues.medium.com/top-10-most-used-git-commands-i-use-at-work-f58c56db4a16)
+[Top 10 git commands I use at work](https://eduardbargues.github.io/docs/articles/top%2010%20git%20commands.html)
 `03-01-2021` `git`
 
 [Take full advantage of your .gitconfig file](https://eduardbargues.medium.com/take-full-advantage-of-your-gitconfig-file-b00bde71c9d0)
