@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Take full advantage of your gitconfig file
+title: Take full advantage of gitconfig file
 parent: Articles
 nav_order: 2
 has_children: false
