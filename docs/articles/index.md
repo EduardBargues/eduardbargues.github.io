@@ -11,6 +11,12 @@ has_children: true
 [Top 10 git commands I use at work](https://eduardbargues.medium.com/top-10-most-used-git-commands-i-use-at-work-f58c56db4a16)
 `03-01-2021` `git`
 
+[Take full advantage of your .gitconfig file](https://eduardbargues.medium.com/take-full-advantage-of-your-gitconfig-file-b00bde71c9d0)
+`06-01-2021` `git` `gitconfig`
+
+[Don’t test your implementation](https://eduardbargues.medium.com/dont-test-your-implementation-e7bb4518728d)
+`12-01-2021` ` test``component-testing ` `c#` `csharp` `aspnetcore`
+
 [Automate your DevOps flow with conventional commits](https://eduardbargues.medium.com/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
 `22-01-2021` `git` `cicd` `gitflow`
 
