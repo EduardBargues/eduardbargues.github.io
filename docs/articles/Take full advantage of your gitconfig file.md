@@ -6,6 +6,9 @@ nav_order: 2
 has_children: false
 ---
 
+## TEST
+
+<!--
 ![main.png](images/main.png)
 
 ## TLDR
@@ -207,4 +210,4 @@ Tested-by: my-friend-qa
 
 ## Conclusions
 
-We've seen several scenarios in which automation brings a whole new level to our Git experience and how the .gitconfig file helps us achieve it by storing any bash function we want. Feedback is welcomed, and enjoy your coding! 👏😃
+We've seen several scenarios in which automation brings a whole new level to our Git experience and how the .gitconfig file helps us achieve it by storing any bash function we want. Feedback is welcomed, and enjoy your coding! 👏😃 -->
