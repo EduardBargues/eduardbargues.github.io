@@ -14,7 +14,7 @@ has_children: true
 [Take full advantage of gitconfig file](https://eduardbargues.github.io/docs/articles/take%20full%20advantage%20of%20gitconfig%20file.html)
 `06-01-2021` `git` `gitconfig`
 
-[Don’t test your implementation](https://eduardbargues.medium.com/dont-test-your-implementation-e7bb4518728d)
+[Do not test your implementation](https://eduardbargues.github.io/docs/articles/do%20not%20test%20your%20implementation.html)
 `12-01-2021` `test` `component-testing` `c#` `csharp` `aspnetcore`
 
 [Automate your DevOps flow with conventional commits](https://eduardbargues.medium.com/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
