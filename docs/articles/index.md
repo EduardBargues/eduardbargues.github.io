@@ -17,7 +17,7 @@ has_children: true
 [Do not test your implementation](https://eduardbargues.github.io/docs/articles/do%20not%20test%20your%20implementation.html)
 `12-01-2021` `test` `component-testing` `c#` `csharp` `aspnetcore`
 
-[Automate your DevOps flow with conventional commits](https://eduardbargues.medium.com/automate-your-devops-flow-with-conventional-commits-9e2b5735d054?source=rss-97fd5aab88d2------2)
+[Automate your DevOps flow with conventional commits](https://eduardbargues.github.io/docs/articles/automate%20your%20devops%20flow%20with%20conventional%20commits.html)
 `22-01-2021` `git` `cicd` `gitflow`
 
 [Branch strategies](https://eduardbargues.medium.com/branch-strategies-51750c59326c?source=rss-97fd5aab88d2------2)
